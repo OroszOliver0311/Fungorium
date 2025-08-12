@@ -1,0 +1,8 @@
+Random events disabled.
+Adding tekton 1 with type SOLOTECTON, that breaks in 999 turns
+Adding tekton 2 with type SOLOTECTON, that breaks in 999 turns
+Adding mushroom Gomba1 to tekton 1
+Adding 5 spores to mushroom Gomba1
+Firing 5 spores from Gomba1 to tekton 2 failed because tecton 2 is not in firing range.
+List of mushrooms:
+Gomba1: tekton 1 5

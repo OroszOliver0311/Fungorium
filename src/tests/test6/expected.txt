@@ -1,0 +1,12 @@
+Random events disabled.
+Adding tekton 1 with type SOLOTECTON, that breaks in 999 turns
+Adding tekton 2 with type SOLOTECTON, that breaks in 999 turns
+Adding neighbors to tekton 1, neighbors: tekton 2
+Adding neighbors to tekton 2, neighbors: tekton 1
+Adding mushroom Gomba1 to tekton 1
+Adding thread between tekton 1 and tekton 2 from Gomba1
+Adding 5 spores to mushroom Gomba1
+Firing 5 spores from Gomba1 to tekton 2.
+Growing new mushroom on tekton 2 failed because there aren't enough spores on tekton 2.
+List of mushrooms:
+Gomba1: tekton 1

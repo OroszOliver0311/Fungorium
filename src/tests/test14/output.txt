@@ -1,0 +1,6 @@
+Random events disabled.
+Adding tekton 1 with type SOLOTECTON, that breaks in 999 turns
+Adding insect Rovar1 to tekton 1
+Rovar1 eating a spore on the current tekton failed because there’s no spore on the current tekton.
+List of insects:
+Rovar1: tekton 1, speed 1, cutskill true

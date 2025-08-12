@@ -1,0 +1,9 @@
+Random events disabled.
+Adding tekton 1 with type ZEROTECTON, that breaks in 2 turns
+Cracking Tecton 1
+Adding tekton 2 with type ZEROTECTON, that breaks in 2 turns
+Adding neighbors to tekton 1, neighbors: tekton 2
+Adding neighbors to tekton 2, neighbors: tekton 1
+List of tectons:
+1: ZEROTECTON, neighbors: 2, 
+2: ZEROTECTON, neighbors: 1, 

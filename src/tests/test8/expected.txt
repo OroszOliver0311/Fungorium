@@ -1,0 +1,10 @@
+Random events disabled.
+Adding tekton 1 with type SOLOTECTON, that breaks in 999 turns
+Adding tekton 2 with type SOLOTECTON, that breaks in 999 turns
+Adding neighbors to tekton 1, neighbors: tekton 2
+Adding neighbors to tekton 2, neighbors: tekton 1
+Adding mushroom Gomba1 to tekton 1
+Adding thread between tekton 1 and tekton 2 from Gomba1
+Extending thread of Gomba1 to tekton 2 failed because tekton 2 is a SOLOTECTON and already has a thread.
+List of Gomba1's threads:
+Thread1: tekton 1 to tekton 2

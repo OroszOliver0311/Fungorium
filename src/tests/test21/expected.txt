@@ -1,0 +1,11 @@
+Random events disabled.
+Adding tekton 1 with type SOLOTECTON, that breaks in 999 turns
+Adding tekton 2 with type SOLOTECTON, that breaks in 999 turns
+Adding neighbors to tekton 1, neighbors: tekton 2
+Adding neighbors to tekton 2, neighbors: tekton 1
+Adding mushroom Gomba1 to tekton 1
+Adding insect Rovar1 to tekton 1
+Setting insect Rovar1’s speed to 3.
+Moving Rovar1 to tekton 2 failed because tekton 2 is not connected to your current tekton.
+List of insects:
+Rovar1: tekton 1, speed 3, cutskill true

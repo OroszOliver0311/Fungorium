@@ -1,0 +1,7 @@
+Random events disabled.
+Adding tekton 1 with type SOLOTECTON, that breaks in 999 turns
+Adding 1 spore(s) (SPEEDSPORE) to tekton 1
+Adding insect Rovar1 to tekton 1
+Rovar1 eating a SPEEDSPORE on the current tekton
+List of insects:
+Rovar1: tekton 1, speed 3, cutskill true

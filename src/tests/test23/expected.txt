@@ -1,0 +1,14 @@
+Random events disabled.
+Adding tekton 1 with type SOLOTECTON, that breaks in 999 turns
+Adding tekton 2 with type SOLOTECTON, that breaks in 999 turns
+Adding neighbors to tekton 1, neighbors: tekton 2
+Adding neighbors to tekton 2, neighbors: tekton 1
+Adding mushroom Gomba1 to tekton 1
+Adding insect Rovar1 to tekton 1
+Adding thread between tekton 2 and tekton 1 from Gomba1
+Setting Rovar1’s cutskill to false. 
+Cutting Gomba1‘s thread in 2  by Rovar1 failed because Rovar1’s cutskill is disabled.
+List of insects:
+Rovar1: tekton 1, speed 2, cutskill false
+List Gomba1’s threads:
+Thread1: tekton 2 to tekton 1
