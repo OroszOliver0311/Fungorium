@@ -1,5 +1,5 @@
-Projekt<br>
-Diagrammok(aktivációs, UML, User ...)<br>
-SCRUM módszer<br>
-JAVA nyelv<br>
-Black & whitebox tesztelés fejlesztés közben
+Project <br>
+Diagrams in documentatio(activation, UML, User ...)<br>
+SCRUM <br>
+Black & whitebox testing 
+
